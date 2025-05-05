@@ -16,3 +16,8 @@ A SQL project focused on cleaning a messy layoffs dataset to prepare it for anal
 
 ## 🛠️ Tools Used
 - SQL (MySQL/PostgreSQL)
+
+# Screenshots
+> Here are the Screenshots of the Project
+>![Screenshot 2025-03-23 192553](https://github.com/user-attachments/assets/deac486b-2929-4db8-a626-e2664a61f14c)
+>![Screenshot 2025-03-23 192619](https://github.com/user-attachments/assets/6447f8af-7956-4bb0-bf11-ba974fe1c92b)
