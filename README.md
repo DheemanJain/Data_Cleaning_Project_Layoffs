@@ -22,7 +22,6 @@ A SQL project focused on cleaning a messy layoffs dataset to prepare it for anal
 
 ## 🖼️ Screenshots
 > Here are the screenshots of the project:
--![Screenshot 2025-03-23 192553](https://github.com/user-attachments/assets/ed65bd92-af37-4963-9e57-092d902736b7)
--![Screenshot 2025-03-23 192619](https://github.com/user-attachments/assets/66844594-969c-41d4-b045-a7f1b637c207)
+-![Screenshot 2025-03-23 192553]
 
 
